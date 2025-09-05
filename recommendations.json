@@ -1,0 +1,47 @@
+{
+  "top": [
+    {
+      "event_id": 101,
+      "event_name": "LLN St Tropez",
+      "discipline": "Jumping",
+      "start_date": "2025-09-21",
+      "engagement_score": 1.0
+    },
+    {
+      "event_id": 102,
+      "event_name": "World Cup Lyon",
+      "discipline": "Jumping",
+      "start_date": "2025-11-05",
+      "engagement_score": 0.799796
+    },
+    {
+      "event_id": 104,
+      "event_name": "Dressage London",
+      "discipline": "Dressage",
+      "start_date": "2025-12-03",
+      "engagement_score": 0.366332
+    },
+    {
+      "event_id": 103,
+      "event_name": "Eventing Blenheim",
+      "discipline": "Eventing",
+      "start_date": "2025-09-28",
+      "engagement_score": 0.345372
+    },
+    {
+      "event_id": 105,
+      "event_name": "Driving Geneva",
+      "discipline": "Driving",
+      "start_date": "2025-12-15",
+      "engagement_score": 0.062396
+    },
+    {
+      "event_id": 106,
+      "event_name": "Vaulting Paris",
+      "discipline": "Vaulting",
+      "start_date": "2025-10-19",
+      "engagement_score": 0.0
+    }
+  ],
+  "upcoming_14d": []
+}
