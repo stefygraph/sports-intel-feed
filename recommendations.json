@@ -5,78 +5,78 @@
       "event_name": "LLN St Tropez",
       "discipline": "Jumping",
       "start_date": "2025-09-21",
-      "days_to": -51,
+      "days_to": -52,
       "engagement_score": 1.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.5,
       "angle": "Team rivalry sprint",
-      "why": "D-51 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
+      "why": "D-52 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 102,
       "event_name": "World Cup Lyon",
       "discipline": "Jumping",
       "start_date": "2025-11-05",
-      "days_to": -6,
+      "days_to": -7,
       "engagement_score": 0.799796,
       "momentum_score": 0.0,
-      "window_boost": 0.114286,
-      "final_score": 0.422755,
+      "window_boost": 0.1,
+      "final_score": 0.419898,
       "angle": "Team rivalry sprint",
-      "why": "D-6 | E=0.80 | M=0.00 | W=0.11 | Final=0.42 | Angle: Team rivalry sprint"
+      "why": "D-7 | E=0.80 | M=0.00 | W=0.10 | Final=0.42 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 104,
       "event_name": "Dressage London",
       "discipline": "Dressage",
       "start_date": "2025-12-03",
-      "days_to": 22,
+      "days_to": 21,
       "engagement_score": 0.366332,
       "momentum_score": 0.0,
-      "window_boost": 0.826087,
-      "final_score": 0.348384,
+      "window_boost": 0.847826,
+      "final_score": 0.352731,
       "angle": "Judge POV tips",
-      "why": "D+22 | E=0.37 | M=0.00 | W=0.83 | Final=0.35 | Angle: Judge POV tips"
+      "why": "D+21 | E=0.37 | M=0.00 | W=0.85 | Final=0.35 | Angle: Judge POV tips"
     },
     {
       "event_id": 103,
       "event_name": "Eventing Blenheim",
       "discipline": "Eventing",
       "start_date": "2025-09-28",
-      "days_to": -44,
+      "days_to": -45,
       "engagement_score": 0.345372,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.172686,
       "angle": "Record or national rivalry",
-      "why": "D-44 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Record or national rivalry"
+      "why": "D-45 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Record or national rivalry"
     },
     {
       "event_id": 105,
       "event_name": "Driving Geneva",
       "discipline": "Driving",
       "start_date": "2025-12-15",
-      "days_to": 34,
+      "days_to": 33,
       "engagement_score": 0.062396,
       "momentum_score": 0.0,
-      "window_boost": 0.565217,
-      "final_score": 0.144242,
+      "window_boost": 0.586957,
+      "final_score": 0.148589,
       "angle": "Behind the stables",
-      "why": "D+34 | E=0.06 | M=0.00 | W=0.57 | Final=0.14 | Angle: Behind the stables"
+      "why": "D+33 | E=0.06 | M=0.00 | W=0.59 | Final=0.15 | Angle: Behind the stables"
     },
     {
       "event_id": 106,
       "event_name": "Vaulting Paris",
       "discipline": "Vaulting",
       "start_date": "2025-10-19",
-      "days_to": -23,
+      "days_to": -24,
       "engagement_score": 0.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.0,
       "angle": "Training routine",
-      "why": "D-23 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
+      "why": "D-24 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
     }
   ],
   "upcoming_60d": [
@@ -85,26 +85,26 @@
       "event_name": "Dressage London",
       "discipline": "Dressage",
       "start_date": "2025-12-03",
-      "days_to": 22,
+      "days_to": 21,
       "engagement_score": 1.0,
       "momentum_score": 0.0,
-      "window_boost": 0.826087,
-      "final_score": 0.665217,
+      "window_boost": 0.847826,
+      "final_score": 0.669565,
       "angle": "Choreography highlight",
-      "why": "D+22 | E=1.00 | M=0.00 | W=0.83 | Final=0.67 | Angle: Choreography highlight"
+      "why": "D+21 | E=1.00 | M=0.00 | W=0.85 | Final=0.67 | Angle: Choreography highlight"
     },
     {
       "event_id": 105,
       "event_name": "Driving Geneva",
       "discipline": "Driving",
       "start_date": "2025-12-15",
-      "days_to": 34,
+      "days_to": 33,
       "engagement_score": 0.0,
       "momentum_score": 0.0,
-      "window_boost": 0.565217,
-      "final_score": 0.113043,
+      "window_boost": 0.586957,
+      "final_score": 0.117391,
       "angle": "Behind the stables",
-      "why": "D+34 | E=0.00 | M=0.00 | W=0.57 | Final=0.11 | Angle: Behind the stables"
+      "why": "D+33 | E=0.00 | M=0.00 | W=0.59 | Final=0.12 | Angle: Behind the stables"
     }
   ]
 }
