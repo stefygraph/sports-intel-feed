@@ -5,78 +5,78 @@
       "event_name": "LLN St Tropez",
       "discipline": "Jumping",
       "start_date": "2025-09-21",
-      "days_to": -65,
+      "days_to": -66,
       "engagement_score": 1.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.5,
       "angle": "Team rivalry sprint",
-      "why": "D-65 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
+      "why": "D-66 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 102,
       "event_name": "World Cup Lyon",
       "discipline": "Jumping",
       "start_date": "2025-11-05",
-      "days_to": -20,
+      "days_to": -21,
       "engagement_score": 0.799796,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.399898,
       "angle": "Team rivalry sprint",
-      "why": "D-20 | E=0.80 | M=0.00 | W=0.00 | Final=0.40 | Angle: Team rivalry sprint"
+      "why": "D-21 | E=0.80 | M=0.00 | W=0.00 | Final=0.40 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 104,
       "event_name": "Dressage London",
       "discipline": "Dressage",
       "start_date": "2025-12-03",
-      "days_to": 8,
+      "days_to": 7,
       "engagement_score": 0.366332,
       "momentum_score": 0.0,
       "window_boost": 1.0,
       "final_score": 0.383166,
       "angle": "Judge POV tips",
-      "why": "D+8 | E=0.37 | M=0.00 | W=1.00 | Final=0.38 | Angle: Judge POV tips"
+      "why": "D+7 | E=0.37 | M=0.00 | W=1.00 | Final=0.38 | Angle: Judge POV tips"
     },
     {
       "event_id": 105,
       "event_name": "Driving Geneva",
       "discipline": "Driving",
       "start_date": "2025-12-15",
-      "days_to": 20,
+      "days_to": 19,
       "engagement_score": 0.062396,
       "momentum_score": 0.0,
-      "window_boost": 0.869565,
-      "final_score": 0.205111,
+      "window_boost": 0.891304,
+      "final_score": 0.209459,
       "angle": "Coach radio moments",
-      "why": "D+20 | E=0.06 | M=0.00 | W=0.87 | Final=0.21 | Angle: Coach radio moments"
+      "why": "D+19 | E=0.06 | M=0.00 | W=0.89 | Final=0.21 | Angle: Coach radio moments"
     },
     {
       "event_id": 103,
       "event_name": "Eventing Blenheim",
       "discipline": "Eventing",
       "start_date": "2025-09-28",
-      "days_to": -58,
+      "days_to": -59,
       "engagement_score": 0.345372,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.172686,
       "angle": "Rider comeback",
-      "why": "D-58 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Rider comeback"
+      "why": "D-59 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Rider comeback"
     },
     {
       "event_id": 106,
       "event_name": "Vaulting Paris",
       "discipline": "Vaulting",
       "start_date": "2025-10-19",
-      "days_to": -37,
+      "days_to": -38,
       "engagement_score": 0.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.0,
       "angle": "Training routine",
-      "why": "D-37 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
+      "why": "D-38 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
     }
   ],
   "upcoming_60d": [
@@ -85,26 +85,26 @@
       "event_name": "Dressage London",
       "discipline": "Dressage",
       "start_date": "2025-12-03",
-      "days_to": 8,
+      "days_to": 7,
       "engagement_score": 1.0,
       "momentum_score": 0.0,
       "window_boost": 1.0,
       "final_score": 0.7,
       "angle": "Choreography highlight",
-      "why": "D+8 | E=1.00 | M=0.00 | W=1.00 | Final=0.70 | Angle: Choreography highlight"
+      "why": "D+7 | E=1.00 | M=0.00 | W=1.00 | Final=0.70 | Angle: Choreography highlight"
     },
     {
       "event_id": 105,
       "event_name": "Driving Geneva",
       "discipline": "Driving",
       "start_date": "2025-12-15",
-      "days_to": 20,
+      "days_to": 19,
       "engagement_score": 0.0,
       "momentum_score": 0.0,
-      "window_boost": 0.869565,
-      "final_score": 0.173913,
+      "window_boost": 0.891304,
+      "final_score": 0.178261,
       "angle": "Behind the stables",
-      "why": "D+20 | E=0.00 | M=0.00 | W=0.87 | Final=0.17 | Angle: Behind the stables"
+      "why": "D+19 | E=0.00 | M=0.00 | W=0.89 | Final=0.18 | Angle: Behind the stables"
     }
   ]
 }
