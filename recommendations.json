@@ -5,78 +5,78 @@
       "event_name": "LLN St Tropez",
       "discipline": "Jumping",
       "start_date": "2025-09-21",
-      "days_to": -160,
+      "days_to": -161,
       "engagement_score": 1.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.5,
       "angle": "Team rivalry sprint",
-      "why": "D-160 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
+      "why": "D-161 | E=1.00 | M=0.00 | W=0.00 | Final=0.50 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 102,
       "event_name": "World Cup Lyon",
       "discipline": "Jumping",
       "start_date": "2025-11-05",
-      "days_to": -115,
+      "days_to": -116,
       "engagement_score": 0.799796,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.399898,
       "angle": "Team rivalry sprint",
-      "why": "D-115 | E=0.80 | M=0.00 | W=0.00 | Final=0.40 | Angle: Team rivalry sprint"
+      "why": "D-116 | E=0.80 | M=0.00 | W=0.00 | Final=0.40 | Angle: Team rivalry sprint"
     },
     {
       "event_id": 104,
       "event_name": "Dressage London",
       "discipline": "Dressage",
       "start_date": "2025-12-03",
-      "days_to": -87,
+      "days_to": -88,
       "engagement_score": 0.366332,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.183166,
       "angle": "Judge POV tips",
-      "why": "D-87 | E=0.37 | M=0.00 | W=0.00 | Final=0.18 | Angle: Judge POV tips"
+      "why": "D-88 | E=0.37 | M=0.00 | W=0.00 | Final=0.18 | Angle: Judge POV tips"
     },
     {
       "event_id": 103,
       "event_name": "Eventing Blenheim",
       "discipline": "Eventing",
       "start_date": "2025-09-28",
-      "days_to": -153,
+      "days_to": -154,
       "engagement_score": 0.345372,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.172686,
       "angle": "Record or national rivalry",
-      "why": "D-153 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Record or national rivalry"
+      "why": "D-154 | E=0.35 | M=0.00 | W=0.00 | Final=0.17 | Angle: Record or national rivalry"
     },
     {
       "event_id": 105,
       "event_name": "Driving Geneva",
       "discipline": "Driving",
       "start_date": "2025-12-15",
-      "days_to": -75,
+      "days_to": -76,
       "engagement_score": 0.062396,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.031198,
       "angle": "Behind the stables",
-      "why": "D-75 | E=0.06 | M=0.00 | W=0.00 | Final=0.03 | Angle: Behind the stables"
+      "why": "D-76 | E=0.06 | M=0.00 | W=0.00 | Final=0.03 | Angle: Behind the stables"
     },
     {
       "event_id": 106,
       "event_name": "Vaulting Paris",
       "discipline": "Vaulting",
       "start_date": "2025-10-19",
-      "days_to": -132,
+      "days_to": -133,
       "engagement_score": 0.0,
       "momentum_score": 0.0,
       "window_boost": 0.0,
       "final_score": 0.0,
       "angle": "Training routine",
-      "why": "D-132 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
+      "why": "D-133 | E=0.00 | M=0.00 | W=0.00 | Final=0.00 | Angle: Training routine"
     }
   ],
   "upcoming_60d": []
